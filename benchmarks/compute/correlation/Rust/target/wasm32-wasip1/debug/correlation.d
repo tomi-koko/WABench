@@ -1,0 +1,1 @@
+/home/tomiko/work/wasm-benchmark-suite/benchmarks/compute/correlation/Rust/target/wasm32-wasip1/debug/correlation.wasm: /home/tomiko/work/wasm-benchmark-suite/benchmarks/compute/correlation/Rust/src/main.rs

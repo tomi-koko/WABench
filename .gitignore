@@ -1,0 +1,5 @@
+toolchains/
+benchmarks/io/std/C/result.txt
+benchmarks/realworld/aes/Zig/reports.zip
+benchmarks/io/rand_rw/Zig/randio.bin
+benchmarks/io/rand_rw/C/randio.bin

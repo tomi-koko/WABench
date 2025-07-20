@@ -1,0 +1,1 @@
+/home/tomiko/work/wasm-benchmark-suite/benchmarks/io/writeflow/Rust/writeflow/target/wasm32-wasip1/debug/writeflow.wasm: /home/tomiko/work/wasm-benchmark-suite/benchmarks/io/writeflow/Rust/writeflow/src/main.rs

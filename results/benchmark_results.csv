@@ -1,0 +1,11 @@
+Benchmark,Language,WasmFile,FileSizeKB,AvgExecTimeSec,MaxMemoryMB,std_dev
+batch_write,C,batch_write.wasm,227.14,0.1386,19.73,0.0206
+rand_rw,C,rand_rw.wasm,144.56,0.0423,18.86,0.0096
+writeflow,C,writeflow.wasm,285.85,0.0452,20.84,0.0099
+std,C,std.wasm,140.98,0.0198,19.82,0.0025
+floyd-warshall,C,floyd.wasm,144.09,0.3696,21.78,0.0371
+quicksort,C,quicksort.wasm,143.85,0.1863,28.01,0.0147
+fft,C,fft.wasm,180.53,0.0816,25.95,0.0092
+nbody,C,nbody.wasm,147.04,0.4591,19.61,0.0413
+three-mm,C,3mm.wasm,146.47,3.5058,44.43,0.3038
+correlation,C,correlation.wasm,146.16,0.2430,24.11,0.0177
