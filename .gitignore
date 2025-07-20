@@ -1,4 +1,6 @@
-toolchains/
+toolchains/go/tinygo-0.33.0
+toolchains/go/tinygo-0.38.0
+toolchains/zig/zig-linux-x86_64-0.12.0
 benchmarks/io/std/C/result.txt
 benchmarks/realworld/aes/Zig/reports.zip
 benchmarks/io/rand_rw/Zig/randio.bin
